@@ -12,7 +12,7 @@ char again = 'д';
                 Console.WriteLine("Введите оператор:");
                 oper = Convert.ToChar(Console.ReadLine());
  
-                Console.WriteLine("Введите второе число:");
+                Console.WriteLine("Введи второе число:");
                 b = Convert.ToDouble(Console.ReadLine());
  
                 if (oper == '+')
