@@ -40,7 +40,7 @@ char again = 'д';
                 }
                 else
                 {
-                    Console.WriteLine("Неизвестный оператор.");
+                    Console.WriteLine("Неизвестный оператор.");//это алина написала я алина
                 }
                 Console.WriteLine("Вы хотите продолжить работу с калькулятором? (д/н)");
                 again = Convert.ToChar(Console.ReadLine());
