@@ -30,7 +30,7 @@ char again = 'д';
                 else if (oper == '*')
                 {
                     total = a * b;
-                    Console.WriteLine("Умножение " + a + " на " + b + " равно " + total + "."); 'это написала даша'
+                    Console.WriteLine("Умножение " + a + " на " + b + " равно " + total + "."); 'это написала Даша 18.02'
                 }
  
                 else if (oper == '/')
